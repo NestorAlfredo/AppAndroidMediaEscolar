@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Escola v1.0</string>
+    <string name="strnota1">Notita 1</string>
+    <string name="strnota2">Notita 2</string>
+    <string name="strCalc">Caculation</string>
+    <string name="strMedia">Médía</string>
+    <string name="strSit">Situacione</string>
+    <string name="strZero">0</string>
+    <string name="strSitAprovado">Aprovadito</string>
+    <string name="strSitRedcperacao">Recuperatito</string>
+    <string name="strSitReprovado">Reprovadito</string>
+    <string name="strMsgAprovado">Ai ai ai</string>
+    <string name="strMsgRecuperacao">Estudito</string>
+    <string name="strMsgReprovado">Reprovadito</string>
+    <string name="msgErro">Digitito um numerito</string>
+</resources>

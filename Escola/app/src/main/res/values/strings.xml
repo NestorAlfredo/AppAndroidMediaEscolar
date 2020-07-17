@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">School v1.0</string>
+    <string name="app_name_image">app_name</string>
+    <string name="strnota1">Grade 1</string>
+    <string name="strnota2">Grade 2</string>
+    <string name="strCalc">Calculate</string>
+    <string name="strMedia">Evridg</string>
+    <string name="strSit">Status</string>
+    <string name="strZero">0</string>
+    <string name="strSitAprovado">Aproved</string>
+    <string name="strSitRedcperacao">Recuperation</string>
+    <string name="strSitReprovado">Reprovated</string>
+    <string name="strMsgAprovado">Congratulations</string>
+    <string name="strMsgRecuperacao">Study More, is to possible</string>
+    <string name="strMsgReprovado">Please try again next year</string>
+    <string name="msgErro">DIgite a number</string>
+</resources>
